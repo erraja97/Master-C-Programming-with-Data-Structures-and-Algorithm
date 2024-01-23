@@ -1,4 +1,4 @@
-# Learning C Language
+# Master C Language with Data Structures and Algorithm
 
 This repository contains code related to learning C language, including tutorials, data structures, and algorithms.
 
