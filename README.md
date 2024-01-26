@@ -67,7 +67,23 @@ This directory contains tutorial materials for learning C language.
 
 ### 02_Stacks
 
-This directory will be updated soon
+#### 01_Stack_implemented_with_Array
+
+- [main.c](02_Data-Structure-And-Algorithm/02_Stacks/01_Stack_implemented_with_Array/main.c)
+- [peek.c](02_Data-Structure-And-Algorithm/02_Stacks/01_Stack_implemented_with_Array/peek.c)
+- [peep.c](02_Data-Structure-And-Algorithm/02_Stacks/01_Stack_implemented_with_Array/peep.c)
+- [pop.c](02_Data-Structure-And-Algorithm/02_Stacks/01_Stack_implemented_with_Array/pop.c)
+- [push.c](02_Data-Structure-And-Algorithm/02_Stacks/01_Stack_implemented_with_Array/push.c)
+- [stack.h](02_Data-Structure-And-Algorithm/02_Stacks/01_Stack_implemented_with_Array/stack.h)
+
+#### 02_Stack_implemented_with_LinkedList
+
+- [main.c](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/main.c)
+- [peek.c](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/peek.c)
+- [peep.c](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/peep.c)
+- [pop.c](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/pop.c)
+- [push.c](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/push.c)
+- [stack.h](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/stack.h)
 
 ---
 
