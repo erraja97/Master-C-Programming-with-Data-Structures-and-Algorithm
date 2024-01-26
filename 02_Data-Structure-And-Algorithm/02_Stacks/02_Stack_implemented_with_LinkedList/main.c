@@ -36,7 +36,7 @@ int main()
 				}
 				else
 				{
-				    printf("INFO : Pop operation is successfull\n")
+				    printf("INFO : Pop operation is successfull\n");
 				}
 				break;
 			case 3:
