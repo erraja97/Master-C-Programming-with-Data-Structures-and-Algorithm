@@ -65,7 +65,7 @@ This directory contains tutorial materials for learning C language.
 - [main.c](02_Data-Structure-And-Algorithm/01_Linked-List/04_Double_Linked_List/main.c)
 - [print_list.c](02_Data-Structure-And-Algorithm/01_Linked-List/04_Double_Linked_List/print_list.c)
 
-### 02_Stacks
+### 02_Stack
 
 #### 01_Stack_implemented_with_Array
 
@@ -84,6 +84,25 @@ This directory contains tutorial materials for learning C language.
 - [pop.c](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/pop.c)
 - [push.c](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/push.c)
 - [stack.h](02_Data-Structure-And-Algorithm/02_Stacks/02_Stack_implemented_with_LinkedList/stack.h)
+
+### 03_Queue
+
+#### 01_Queue_implemented_with_LinkedList
+
+- [main.c](02_Data-Structure-And-Algorithm/03_Queue/01_Queue_implemented_with_LinkedList/main.c)
+- [enqueue.c](02_Data-Structure-And-Algorithm/03_Queue/01_Queue_implemented_with_LinkedList/enqueue.c)
+- [dequeue.c](02_Data-Structure-And-Algorithm/03_Queue/01_Queue_implemented_with_LinkedList/dequeue.c)
+- [print_queue.c](02_Data-Structure-And-Algorithm/03_Queue/01_Queue_implemented_with_LinkedList/print_queue.c)
+- [queue.h](02_Data-Structure-And-Algorithm/03_Queue/01_Queue_implemented_with_LinkedList/queue.h)
+
+#### 02_Circular_Queue_implemented_with_Array
+
+- [main.c](02_Data-Structure-And-Algorithm/03_Queue/02_Circular_Queue_implemented_with_Array/main.c)
+- [enqueue.c](02_Data-Structure-And-Algorithm/03_Queue/02_Circular_Queue_implemented_with_Array/enqueue.c)
+- [dequeue.c](02_Data-Structure-And-Algorithm/03_Queue/02_Circular_Queue_implemented_with_Array/dequeue.c)
+- [print_queue.c](02_Data-Structure-And-Algorithm/03_Queue/02_Circular_Queue_implemented_with_Array/print_queue.c)
+- [queue_status.c](02_Data-Structure-And-Algorithm/03_Queue/02_Circular_Queue_implemented_with_Array/queue_status.c)
+- [queue.h](02_Data-Structure-And-Algorithm/03_Queue/02_Circular_Queue_implemented_with_Array/queue.h)
 
 ---
 
