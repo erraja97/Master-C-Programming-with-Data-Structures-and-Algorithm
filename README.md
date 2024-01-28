@@ -11,7 +11,12 @@ This repository contains code related to learning C language, including tutorial
         - [02_Single_Linked_List](#02_single_linked_list)
         - [03_Double_Linked_List](#03_double_linked_list)
         - [04_Double_Linked_List](#04_double_linked_list)
-    - [02_Stacks](#02_stacks)
+    - [02_Stack](#02_stack)
+        - [01_Stack_implemented_with_Array](#01_stack_implemented_with_array)
+        - [02_Stack_implemented_with_LinkedList](#02_stack_implemented_with_linkedlist)
+    - [03_Queue](#03_queue)
+        - [01_Queue_implemented_with_LinkedList](#01_queue_implemented_with_linkedlist)
+        - [02_Circular_Queue_implemented_with_Array](#02_circular_queue_implemented_with_array)
 
 ## 01_Tutorial
 
